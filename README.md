@@ -2,7 +2,6 @@
     <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-prim---robotika" class="anchor" aria-hidden="true" href="#prim---robotika"></a>PRIM - Robotika</h1>
 <p>Učebnice robotiky se skládá ze dvou částí. Každá využívá jinou technologii. Jedná se o Arduino a Micro:Bit. Stačí si jen vybrat, kterou technologii pro výuku robotiky využijete. Struktura obou částí a příkladů je prakticky stejná.</p>
 <p><a href="#arduino">Arduino - obsah</a></p>
-<p><a href="#microbit">Micro:Bit - obsah</a></p>
 <p><a href="https://github.com/Nowis75/PRIM/archive/master.zip">Učebnice ke stažení (ZIP - 1Gb)</a></p>       
  <h2>KRÁTKÉ SEZNÁMENÍ, JAK PRACOVAT S UČEBNICÍ</h2><p>
 Učebnice se skládá z jednotlivých kapitol, které obsahují konkrétní probírané téma. Materiály pro každé téma jsou rozděleny do tří základních částí a doplněny o další podpůrné materiály.</p>
@@ -188,44 +187,6 @@ hrníčku s vodou o požadované teplotě.</li>
 <ol start="12">
 <li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/Wiring%20-%20refere%C4%8Dn%C3%AD%20p%C5%99%C3%ADru%C4%8Dka">Wiring - referenční příručka</a> <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/Wiring%20-%20refere%C4%8Dn%C3%AD%20p%C5%99%C3%ADru%C4%8Dka">(Lekce ke stažení)</a></li>
 </ol>
-<h1><a id="user-content-microbit" class="anchor" aria-hidden="true" href="#microbit"></a>MicroBit</h1>
-<p>Učebnice MicroBit je zaměřena na výuku programování MicroPythonu za pomocí vývojové desky Microbit.</p>
-<p>Je určena pro pokročilejší žáky 7. až 9. tříd základních škol a pro neelektrotechnicky zaměřené školy střední.</p>
-<h2>Obsah</h2>
-<ol>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/00-Uvod"> Úvod</a>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/01-LED"> Práce s vestavěným LED displejem</a>
-<ul>
-<li>Zobrazování textu
-<li>Zobrazení obrázků vestavěných i vlastních
-<li>Animace
-</ul>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/02-Button"> Použití vestavěných tlačítek</a>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/03-Sound">Práce se zvukem</a>
-<ul>
-<li>Přehrání vestavěných melodií
-<li>Tvorba vlastních melodií
-<li>Generování řeči
-</ul>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/04-Poloha">Orientace micro:bitu v prostoru</a>
-<ul>
-<li>Použití vestavěného akcelerometru
-<li>Využití gest
-<li>Použití vestavěného kompasu
-<li>Měření magnetického pole
-</ul>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/05-Sit">Propojení micro:bitů v síti</a>
-<ul>
-<li>Přímé propojení pomocí kabelu
-<li>Bezdrátové propojení pomocí rádia
-</ul>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/06-Periferie">Práce s perifériemi</a>
-<ul>
-<li>Ovládání trojbarevné diody
-<li>Měření teploty pomocí externího čidla
-</ul>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/07-Zaver">Závěrečný příklad</a>
-</ul>
-</ol>
+
 </article> 
 
