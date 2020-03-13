@@ -1,6 +1,6 @@
    <div id="readme" class="readme blob instapaper_body">
-    <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-prim---robotika" class="anchor" aria-hidden="true" href="#prim---robotika"></a>PRIM - Robotika</h1>
-<p>Učebnice robotiky se skládá ze dvou částí. Každá využívá jinou technologii. Jedná se o Arduino a Micro:Bit. Stačí si jen vybrat, kterou technologii pro výuku robotiky využijete. Struktura obou částí a příkladů je prakticky stejná.</p>
+    <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-prim---robotika" class="anchor" aria-hidden="true" href="#prim---robotika"></a>PRIM - Robotika - Arduino</h1>
+<p>Učebnice robotiky pro střední školy, využívá technologii Arduino. Jedná se spíš o úvod do problematiky robotiky, který v sobě nese základní dovednosti v řídících, senzorických a motorických subsystémech, které tvoří ucelený robotický systém.</p>
 <p><a href="#arduino">Arduino - obsah</a></p>
 <p><a href="https://github.com/Nowis75/PRIM/archive/master.zip">Učebnice ke stažení (ZIP - 1Gb)</a></p>       
  <h2>KRÁTKÉ SEZNÁMENÍ, JAK PRACOVAT S UČEBNICÍ</h2><p>
