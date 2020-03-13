@@ -1,13 +1,13 @@
    <div id="readme" class="readme blob instapaper_body">
     <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-prim---robotika" class="anchor" aria-hidden="true" href="#prim---robotika"></a>PRIM - Robotika</h1>
-<p>U‹ebnice robotiky se skl‡d‡ ze dvou ‹‡st’. Kaìd‡ vyuì’v‡ jinou technologii. Jedn‡ se o Arduino a Micro:Bit. Sta‹’ si jen vybrat, kterou technologii pro vùuku robotiky vyuìijete. Struktura obou ‹‡st’ a pŞ’kladó je prakticky stejn‡.</p>
+<p>UÄebnice robotiky se sklÃ¡dÃ¡ ze dvou ÄÃ¡stÃ­. KaÅ¾dÃ¡ vyuÅ¾Ã­vÃ¡ jinou technologii. JednÃ¡ se o Arduino a Micro:Bit. StaÄÃ­ si jen vybrat, kterou technologii pro vÃ½uku robotiky vyuÅ¾ijete. Struktura obou ÄÃ¡stÃ­ a pÅ™Ã­kladÅ¯ je prakticky stejnÃ¡.</p>
 <p><a href="#arduino">Arduino - obsah</a></p>
 <p><a href="#microbit">Micro:Bit - obsah</a></p>
-<p><a href="https://github.com/Nowis75/PRIM/archive/master.zip">U‹ebnice ke staìen’ (ZIP - 1Gb)</a></p>       
- <h2>KRçTKƒ SEZNçMENê, JAK PRACOVAT S U‰EBNICê</h2><p>
-U‹ebnice se skl‡d‡ z jednotlivùch kapitol, kter obsahuj’ konkrtn’ prob’ran tma. Materi‡ly pro kaìd tma jsou rozdleny do tŞ’ z‡kladn’ch ‹‡st’ a doplnny o dalä’ podpórn materi‡ly.</p>
+<p><a href="https://github.com/Nowis75/PRIM/archive/master.zip">UÄebnice ke staÅ¾enÃ­ (ZIP - 1Gb)</a></p>       
+ <h2>KRÃTKÃ‰ SEZNÃMENÃ, JAK PRACOVAT S UÄŒEBNICÃ</h2><p>
+UÄebnice se sklÃ¡dÃ¡ z jednotlivÃ½ch kapitol, kterÃ© obsahujÃ­ konkrÃ©tnÃ­ probÃ­ranÃ© tÃ©ma. MateriÃ¡ly pro kaÅ¾dÃ© tÃ©ma jsou rozdÄ›leny do tÅ™Ã­ zÃ¡kladnÃ­ch ÄÃ¡stÃ­ a doplnÄ›ny o dalÅ¡Ã­ podpÅ¯rnÃ© materiÃ¡ly.</p>
 <p>
-Kaìd‡ sloìka lekce je rozdlena na d’l‹’ podsloìky, kter maj’ n‡sleduj’c’ strukturu:<br>
+KaÅ¾dÃ¡ sloÅ¾ka lekce je rozdÄ›lena na dÃ­lÄÃ­ podsloÅ¾ky, kterÃ© majÃ­ nÃ¡sledujÃ­cÃ­ strukturu:<br>
 01_Pro_ucitele<br>
 02_Pro_zaky<br>
 03_Samostudium<br>
@@ -15,216 +15,216 @@ Kaìd‡ sloìka lekce je rozdlena na d’l‹’ podsloìky, kter maj’ n‡sleduj’c’ struk
 05_Zaverecny_projekt<br>
 06_Dalsi_materialy<br>
 </p>
-<h3>1.	PRO U‰ITELE</h3>
+<h3>1.	PRO UÄŒITELE</h3>
 <p>
-Tato sloìka obsahuje soubory ur‹en u‹itelóm, kter pŞedstavuj’ doporu‹enù próchod hodinou. D‡le jsou zde soubory uk‡zkov vyŞeäenùch samostatnùch œloh, kter maj’ ì‡ci Şeäit v r‡mci pracovn’ch listó.
-D‡le jsou zde prezentace k hodin v MS PowerPoint (sloìka PowerPoint_prezentace), kter kop’ruj’ próvodce hodinou a cel‡ lekce v jednom souboru se väemi ‹‡stmi (sloìka Vse_v_jednom). </p>
-<h3>2.	PRO ëçKY</h3>
-<p>Sloìka obsahuje pracovn’ listy, kter kop’ruj’ strukturu PODROBNƒHO PRñVODCE HODINOU vyu‹uj’c’ho. Soubory s pracovn’mi listy jsou samostatn um’stny v pŞ’sluän sloìce, aby bylo snadn je vytisknout. Pracovn’ listy lze rozeslat i elektronicky.
-Spr‡vn‡ Şeäen’ samostatnùch œkoló jsou ve sloìce PRO U‰ITELE.</p>
+Tato sloÅ¾ka obsahuje soubory urÄenÃ© uÄitelÅ¯m, kterÃ© pÅ™edstavujÃ­ doporuÄenÃ½ prÅ¯chod hodinou. DÃ¡le jsou zde soubory ukÃ¡zkovÄ› vyÅ™eÅ¡enÃ½ch samostatnÃ½ch Ãºloh, kterÃ© majÃ­ Å¾Ã¡ci Å™eÅ¡it v rÃ¡mci pracovnÃ­ch listÅ¯.
+DÃ¡le jsou zde prezentace k hodinÄ› v MS PowerPoint (sloÅ¾ka PowerPoint_prezentace), kterÃ© kopÃ­rujÃ­ prÅ¯vodce hodinou a celÃ¡ lekce v jednom souboru se vÅ¡emi ÄÃ¡stmi (sloÅ¾ka Vse_v_jednom). </p>
+<h3>2.	PRO Å½ÃKY</h3>
+<p>SloÅ¾ka obsahuje pracovnÃ­ listy, kterÃ© kopÃ­rujÃ­ strukturu PODROBNÃ‰HO PRÅ®VODCE HODINOU vyuÄujÃ­cÃ­ho. Soubory s pracovnÃ­mi listy jsou samostatnÄ› umÃ­stÄ›ny v pÅ™Ã­sluÅ¡nÃ© sloÅ¾ce, aby bylo snadnÃ© je vytisknout. PracovnÃ­ listy lze rozeslat i elektronicky.
+SprÃ¡vnÃ¡ Å™eÅ¡enÃ­ samostatnÃ½ch ÃºkolÅ¯ jsou ve sloÅ¾ce PRO UÄŒITELE.</p>
 <h3>3.	SAMOSTUDIUM</h3><p>
-Sloìka obsahuje materi‡l, kterù móìe bùt studijn’m doplËkem. Jsou zde podrobn informace k prob’ranmu tmatu. Lze jej vyuì’t jako studijn’ materi‡l jak pro studenty, tak i pro vyu‹uj’c’, kteŞ’ se s prob’ranou l‡tkou seznamuj’. 
-Jsou zde tak podrobn okomentov‡ny schmata zapojen’ a programov k—dy väech pŞ’kladó pouìitùch v pracovn’ch listech.
-Sou‹‡st’ je i n‡mt na projekt, kterù vyuì’v‡ nau‹enùch znalost’ z hodiny.</p>
-<h3>4.	ZDROJOVƒ KîDY</h3><p>
-Sloìka obsahuje soubory zdrojovùch k—dó, kter lze otevŞ’t v prostŞed’ Arduino. Jsou zde uvedeny k—dy väech vzorovùch pŞ’kladó i samostatnùch œkoló.
-Pokud je to nutn, tak lze ve sloìce nalzt potŞebn knihovny pro prostŞed’ Arduino.</p>
-<h3>5.	ZçVRE‰Nø PROJEKT</h3><p>
-Sloìka obsahuje soubor, ve kterm je uveden postup konstrukce samostatnho projektu d‡le podsloìku s tiskovùmi äablonami pro pŞ’padnou konstrukci. áablony jsou uvedeny ve zdrojovùch souborech, nebo v PDF, kter lze jednoduäe vytisknout </p>
-<h3>6.	DALáê MATERIçLY</h3><p>
-Ve sloìce se nach‡z’ zejmna soubory schmat zapojen’ väech obvodó uvedenùch v u‹ebnici, vztahuj’c’ se k dan lekci.
+SloÅ¾ka obsahuje materiÃ¡l, kterÃ½ mÅ¯Å¾e bÃ½t studijnÃ­m doplÅˆkem. Jsou zde podrobnÃ© informace k probÃ­ranÃ©mu tÃ©matu. Lze jej vyuÅ¾Ã­t jako studijnÃ­ materiÃ¡l jak pro studenty, tak i pro vyuÄujÃ­cÃ­, kteÅ™Ã­ se s probÃ­ranou lÃ¡tkou seznamujÃ­. 
+Jsou zde takÃ© podrobnÄ› okomentovÃ¡ny schÃ©mata zapojenÃ­ a programovÃ© kÃ³dy vÅ¡ech pÅ™Ã­kladÅ¯ pouÅ¾itÃ½ch v pracovnÃ­ch listech.
+SouÄÃ¡stÃ­ je i nÃ¡mÄ›t na projekt, kterÃ½ vyuÅ¾Ã­vÃ¡ nauÄenÃ½ch znalostÃ­ z hodiny.</p>
+<h3>4.	ZDROJOVÃ‰ KÃ“DY</h3><p>
+SloÅ¾ka obsahuje soubory zdrojovÃ½ch kÃ³dÅ¯, kterÃ© lze otevÅ™Ã­t v prostÅ™edÃ­ Arduino. Jsou zde uvedeny kÃ³dy vÅ¡ech vzorovÃ½ch pÅ™Ã­kladÅ¯ i samostatnÃ½ch ÃºkolÅ¯.
+Pokud je to nutnÃ©, tak lze ve sloÅ¾ce nalÃ©zt potÅ™ebnÃ© knihovny pro prostÅ™edÃ­ Arduino.</p>
+<h3>5.	ZÃVÄšREÄŒNÃ PROJEKT</h3><p>
+SloÅ¾ka obsahuje soubor, ve kterÃ©m je uveden postup konstrukce samostatnÃ©ho projektu dÃ¡le podsloÅ¾ku s tiskovÃ½mi Å¡ablonami pro pÅ™Ã­padnou konstrukci. Å ablony jsou uvedeny ve zdrojovÃ½ch souborech, nebo v PDF, kterÃ© lze jednoduÅ¡e vytisknout </p>
+<h3>6.	DALÅ Ã MATERIÃLY</h3><p>
+Ve sloÅ¾ce se nachÃ¡zÃ­ zejmÃ©na soubory schÃ©mat zapojenÃ­ vÅ¡ech obvodÅ¯ uvedenÃ½ch v uÄebnici, vztahujÃ­cÃ­ se k danÃ© lekci.
 </p>
 <h1><a id="user-content-arduino" class="anchor" aria-hidden="true" href="#arduino"></a>Arduino</h1>
        
-<p>U‹ebnice ARDUINO obsahuje sadu metodickùch materi‡ló pro u‹itele se zamŞen’m na programov‡n’, odr‡ì’ zrevidovanù r‡mcovù vzdl‡vac’ pl‡n z informatiky a naplËuje nkter z kompetenc’, kter jsou v nm zaŞazen.</p>
-<p>Term’n ãArduinoÒ v sob obsahuje jak hardware, tak i software. Arduino je prototypovou a otevŞenou platformou zaloìenou na snadno pouìitelnm hardwaru a softwaru. Programovateln desky Arduino zpracov‡vaj’ vstupy a s pouìit’m programovho k—du vytvoŞ’ vùstup. K desce Arduino lze pŞidat Şadu dalä’ch hardwarovùch komponent. S vyuìit’m open source knihoven dostupnùch na webu lze Arduino vyuì’t pro äirokou äk‡lu projektó, od extrmn jednoduchùch aì po vysoce komplexn’. T’m je tato platforma velice flexibiln’.</p>
-<p>Program‡toŞi vytv‡Şej’ roboty, d‡lkov Ş’zen‡ vozidla, dom‡c’ automatiza‹n’ zaŞ’zen’ atd. Arduino z’skalo popularitu d’ky sv jednoduchosti a cenov dostupnosti. Pro za‹‡te‹n’ka, v‹etn d’tte, je relativn snadn s programov‡n’m na platform Arduino za‹’t. Vùukovù potenci‡l lze spatŞovat v pokryt’ nkolika oblast’ jako design, elektronika, embedded systmy a v neposledn’ Şad programov‡n’. Tyto oblasti se navz‡jem prol’naj’ a doplËuj’.</p>
-<p>Pro pr‡ci s Arduino pomoc’ tto u‹ebnice se nevyìaduj’ ì‡dn pŞedchoz’ zkuäenosti, ani pochopen’ z‡kladó elektroniky. U‹ebnice je rozdlena do kapitol, kter obsahuj’ pŞ’klady odstupËovan podle n‡ro‹nosti. Kaìd‡ kapitola obsahuje materi‡ly pro u‹itele v podob podrobnùch próvodcó hodinami, pracovn’mi listy pro ì‡ky a podrobnùmi próvodci teori’, vztahuj’c’ se k prob’ranmu tmatu. V cel u‹ebnici je kladen dóraz na samostatn plnn’ œkoló, kter postupn odhaluj’ moìnosti platformy Arduino.</p>
+<p>UÄebnice ARDUINO obsahuje sadu metodickÃ½ch materiÃ¡lÅ¯ pro uÄitele se zamÄ›Å™enÃ­m na programovÃ¡nÃ­, odrÃ¡Å¾Ã­ zrevidovanÃ½ rÃ¡mcovÃ½ vzdÄ›lÃ¡vacÃ­ plÃ¡n z informatiky a naplÅˆuje nÄ›kterÃ© z kompetencÃ­, kterÃ© jsou v nÄ›m zaÅ™azenÃ©.</p>
+<p>TermÃ­n â€Arduinoâ€œ v sobÄ› obsahuje jak hardware, tak i software. Arduino je prototypovou a otevÅ™enou platformou zaloÅ¾enou na snadno pouÅ¾itelnÃ©m hardwaru a softwaru. ProgramovatelnÃ© desky Arduino zpracovÃ¡vajÃ­ vstupy a s pouÅ¾itÃ­m programovÃ©ho kÃ³du vytvoÅ™Ã­ vÃ½stup. K desce Arduino lze pÅ™idat Å™adu dalÅ¡Ã­ch hardwarovÃ½ch komponent. S vyuÅ¾itÃ­m open source knihoven dostupnÃ½ch na webu lze Arduino vyuÅ¾Ã­t pro Å¡irokou Å¡kÃ¡lu projektÅ¯, od extrÃ©mnÄ› jednoduchÃ½ch aÅ¾ po vysoce komplexnÃ­. TÃ­m je tato platforma velice flexibilnÃ­.</p>
+<p>ProgramÃ¡toÅ™i vytvÃ¡Å™ejÃ­ roboty, dÃ¡lkovÄ› Å™Ã­zenÃ¡ vozidla, domÃ¡cÃ­ automatizaÄnÃ­ zaÅ™Ã­zenÃ­ atd. Arduino zÃ­skalo popularitu dÃ­ky svÃ© jednoduchosti a cenovÃ© dostupnosti. Pro zaÄÃ¡teÄnÃ­ka, vÄetnÄ› dÃ­tÄ›te, je relativnÄ› snadnÃ© s programovÃ¡nÃ­m na platformÄ› Arduino zaÄÃ­t. VÃ½ukovÃ½ potenciÃ¡l lze spatÅ™ovat v pokrytÃ­ nÄ›kolika oblastÃ­ jako design, elektronika, embedded systÃ©my a v neposlednÃ­ Å™adÄ› programovÃ¡nÃ­. Tyto oblasti se navzÃ¡jem prolÃ­najÃ­ a doplÅˆujÃ­.</p>
+<p>Pro prÃ¡ci s Arduino pomocÃ­ tÃ©to uÄebnice se nevyÅ¾adujÃ­ Å¾Ã¡dnÃ© pÅ™edchozÃ­ zkuÅ¡enosti, ani pochopenÃ­ zÃ¡kladÅ¯ elektroniky. UÄebnice je rozdÄ›lena do kapitol, kterÃ© obsahujÃ­ pÅ™Ã­klady odstupÅˆovanÃ© podle nÃ¡roÄnosti. KaÅ¾dÃ¡ kapitola obsahuje materiÃ¡ly pro uÄitele v podobÄ› podrobnÃ½ch prÅ¯vodcÅ¯ hodinami, pracovnÃ­mi listy pro Å¾Ã¡ky a podrobnÃ½mi prÅ¯vodci teoriÃ­, vztahujÃ­cÃ­ se k probÃ­ranÃ©mu tÃ©matu. V celÃ© uÄebnici je kladen dÅ¯raz na samostatnÃ© plnÄ›nÃ­ ÃºkolÅ¯, kterÃ© postupnÄ› odhalujÃ­ moÅ¾nosti platformy Arduino.</p>
   
 <h2><a id="user-content-obsah" class="anchor" aria-hidden="true" href="#obsah"></a>OBSAH</h2>
 <ol>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/00_Uvod">òvod</a> </li>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/00_Uvod">Ãšvod</a> </li>
 </ol>
 <ul>
-<li>Doporu‹en’, jak pracovat s u‹ebnic’.</li>
-<li>Popis jednotlivùch komponent v sad ARDUINO.</li>
-<li>Popis z‡kladn’ desky ARDUINO a programovac’ho rozhran’.</li>
-<li>Prvn’ nastaven’ programovac’ho rozhran’.</li>
-<li>Ûeäen’ problmó.</li>
-<li>Nutn z‡klady pro prvn’ program - kontaktn’ pole, ohmóv z‡kon, tla‹’tka, LED.</li>
-   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/00_Uvod">(Lekce ke staìen’)</a></li>
+<li>DoporuÄenÃ­, jak pracovat s uÄebnicÃ­.</li>
+<li>Popis jednotlivÃ½ch komponent v sadÄ› ARDUINO.</li>
+<li>Popis zÃ¡kladnÃ­ desky ARDUINO a programovacÃ­ho rozhranÃ­.</li>
+<li>PrvnÃ­ nastavenÃ­ programovacÃ­ho rozhranÃ­.</li>
+<li>Å˜eÅ¡enÃ­ problÃ©mÅ¯.</li>
+<li>NutnÃ© zÃ¡klady pro prvnÃ­ program - kontaktnÃ­ pole, ohmÅ¯v zÃ¡kon, tlaÄÃ­tka, LED.</li>
+   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/00_Uvod">(Lekce ke staÅ¾enÃ­)</a></li>
 </ul>
 <ol start="2">
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/01_PRVNI_PROGRAM">Prvn’ program</a> </li>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/01_PRVNI_PROGRAM">PrvnÃ­ program</a> </li>
    
 </ol>
 <ul>
-<li>Digit‡ln’ vstup a vùstup s popisem funkc’ pro jejich ovl‡d‡n’.</li>
-<li>Podrobnù popis zapojen’ obvodu s LED diodu.</li>
-<li>Z‡kladn’ sezn‡men’ s jazykem Wiring.</li>
-<li>Popis rozhran’ Arduino IDE pro nahr‡n’ k—du do desky.</li>
-<li>Ûeäen problmy pŞi zapojen’ LED diody.</li>
-<li>Sezn‡men’ s programem Arduino IDE pro nahr‡v‡n’ k—du do desky.</li>
-<li>Princip a zapojen’ piezzo bzu‹‡ku s podrobnùm vysvtlen’m.</li>
-<li>Programovù k—d pro ovl‡d‡n’ obvodu s bzu‹‡kem.</li>
-<li>Technick‡ ‹‡st pro z‡vre‹nù projekt Ğ Mluv’c’ robot.</li>
-<li>Vysvtlen’ Şeäen’ samostatnùch œkoló.</li>
-   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/01_PRVNI_PROGRAM">(Lekce ke staìen’)</a></li>
+<li>DigitÃ¡lnÃ­ vstup a vyÌstup s popisem funkcÃ­ pro jejich ovlÃ¡dÃ¡nÃ­.</li>
+<li>PodrobnyÌ popis zapojenÃ­ obvodu s LED diodu.</li>
+<li>ZÃ¡kladnÃ­ seznÃ¡menÃ­ s jazykem Wiring.</li>
+<li>Popis rozhranÃ­ Arduino IDE pro nahrÃ¡nÃ­ kÃ³du do desky.</li>
+<li>Å˜eÅ¡enÃ© problÃ©my pÅ™i zapojenÃ­ LED diody.</li>
+<li>SeznÃ¡menÃ­ s programem Arduino IDE pro nahrÃ¡vÃ¡nÃ­ kÃ³du do desky.</li>
+<li>Princip a zapojenÃ­ piezzo bzuÄÃ¡ku s podrobnyÌm vysvÄ›tlenÃ­m.</li>
+<li>ProgramovyÌ kÃ³d pro ovlÃ¡dÃ¡nÃ­ obvodu s bzuÄÃ¡kem.</li>
+<li>TechnickÃ¡ ÄÃ¡st pro zÃ¡vÄ›reÄnyÌ projekt â€“ MluvÃ­cÃ­ robot.</li>
+<li>VysvÄ›tlenÃ­ Å™eÅ¡enÃ­ samostatnyÌch ÃºkolÅ¯.</li>
+   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/01_PRVNI_PROGRAM">(Lekce ke staÅ¾enÃ­)</a></li>
 </ul>
 <ol start="3">
 <li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/02_LED_ANIMATION">LED Animace</a> </li>
 </ol>
 <ul>
-<li>Deklarace a pouì’v‡n’ vlastn’ch funkc’.</li>
-<li>Definice pol’ v Arduinu.</li>
-<li>Pouìit’ pŞ’kazu cyklu for.</li>
-<li>Programov k—dy pro vysvtlen’ pouì’v‡n’ pol’ a cyklu.</li>
-<li>Ûeäen problmy pŞi zapojen’ sestavy LED diod.</li>
-<li>Technick‡ ‹‡st pro z‡vre‹nù projekt Ğ stojan na diody.</li>
-<li>Vysvtlen’ Şeäen’ samostatnùch œkoló.</li>
-   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/02_LED_ANIMATION">(Lekce ke staìen’)</a></li>
+<li>Deklarace a pouÅ¾Ã­vÃ¡nÃ­ vlastnÃ­ch funkcÃ­.</li>
+<li>Definice polÃ­ v Arduinu.</li>
+<li>PouÅ¾itÃ­ pÅ™Ã­kazu cyklu for.</li>
+<li>ProgramovÃ© kÃ³dy pro vysvÄ›tlenÃ­ pouÅ¾Ã­vÃ¡nÃ­ polÃ­ a cyklu.</li>
+<li>Å˜eÅ¡enÃ© problÃ©my pÅ™i zapojenÃ­ sestavy LED diod.</li>
+<li>TechnickÃ¡ ÄÃ¡st pro zÃ¡vÄ›reÄnyÌ projekt â€“ stojan na diody.</li>
+<li>VysvÄ›tlenÃ­ Å™eÅ¡enÃ­ samostatnyÌch ÃºkolÅ¯.</li>
+   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/02_LED_ANIMATION">(Lekce ke staÅ¾enÃ­)</a></li>
 </ul>
 <ol start="4">
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/03_SERVO">Programujeme ovl‡d‡n’ servo motoró</a> </li>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/03_SERVO">Programujeme ovlÃ¡dÃ¡nÃ­ servo motorÅ¯</a> </li>
 </ol>
 <ul>
-<li>Princip servomotoró.</li>
-<li>Vysvtlen’ podm’nkovho pŞ’kazu if..else.</li>
-<li>PŞ’klad zapojen’ servomotoru.</li>
-<li>Princip a zapojen’ potenciometru v Arduino pro ovl‡d‡n’ servomotoru.</li>
-<li>Programov k—dy pro vysvtlen’ pouì’v‡n’ podm’nkovho pŞ’kazu if..else..</li>
-<li>Ûeäen problmy pŞi zapojen’ servomotoru.</li>
-<li>Technick‡ ‹‡st pro z‡vre‹nù projekt Ğ slune‹nice.</li>
-<li>Vysvtlen’ Şeäen’ samostatnùch œkoló.</li>
-   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/03_SERVO">(Lekce ke staìen’)</a></li>
+<li>Princip servomotorÅ¯.</li>
+<li>VysvÄ›tlenÃ­ podmÃ­nkovÃ©ho pÅ™Ã­kazu if..else.</li>
+<li>PÅ™Ã­klad zapojenÃ­ servomotoru.</li>
+<li>Princip a zapojenÃ­ potenciometru v Arduino pro ovlÃ¡dÃ¡nÃ­ servomotoru.</li>
+<li>ProgramovÃ© kÃ³dy pro vysvÄ›tlenÃ­ pouÅ¾Ã­vÃ¡nÃ­ podmÃ­nkovÃ©ho pÅ™Ã­kazu if..else..</li>
+<li>Å˜eÅ¡enÃ© problÃ©my pÅ™i zapojenÃ­ servomotoru.</li>
+<li>TechnickÃ¡ ÄÃ¡st pro zÃ¡vÄ›reÄnyÌ projekt â€“ sluneÄnice.</li>
+<li>VysvÄ›tlenÃ­ Å™eÅ¡enÃ­ samostatnyÌch ÃºkolÅ¯.</li>
+   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/03_SERVO">(Lekce ke staÅ¾enÃ­)</a></li>
 </ul>
 <ol start="5">
 <li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/04_RGB_LED">Programujeme RGB diody</a> </li>
 </ol>
 <ul>
-<li>Sezn‡men’ se s RGB diodou a jej’ funk‹nost’.</li>
-<li>Princip skl‡d‡n’ barev a PWM.</li>
-<li>Spr‡vn zapojen’ RGB diody s vyuìit’m zkuäenost’ z pŞedchoz’ch pŞ’kladó. Zejmna
-se jedn‡ o volbu rezistoró a jejich zapojen’.</li>
-<li>Zaveden’ pojmó a znalost’ tùkaj’c’ se analogovùch vùstupó a mapov‡n’ hodnot.</li>
-<li>Vyuìit’ jiì zavedenho podm’nkovho pŞ’kazu if.</li>
-<li>Zaveden’ vlastn’ funkce v programovm k—du.</li>
-<li>Pouìit’ pŞ’kazu cyklu for.</li>
-   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/04_RGB_LED">(Lekce ke staìen’)</a></li>
+<li>SeznÃ¡menÃ­ se s RGB diodou a jejÃ­ funkÄnostÃ­.</li>
+<li>Princip sklÃ¡dÃ¡nÃ­ barev a PWM.</li>
+<li>SprÃ¡vnÃ© zapojenÃ­ RGB diody s vyuÅ¾itÃ­m zkuÅ¡enostÃ­ z pÅ™edchozÃ­ch pÅ™Ã­kladÅ¯. ZejmÃ©na
+se jednÃ¡ o volbu rezistorÅ¯ a jejich zapojenÃ­.</li>
+<li>ZavedenÃ­ pojmÅ¯ a znalostÃ­ tyÌkajÃ­cÃ­ se analogovyÌch vyÌstupÅ¯ a mapovÃ¡nÃ­ hodnot.</li>
+<li>VyuÅ¾itÃ­ jiÅ¾ zavedenÃ©ho podmÃ­nkovÃ©ho pÅ™Ã­kazu if.</li>
+<li>ZavedenÃ­ vlastnÃ­ funkce v programovÃ©m kÃ³du.</li>
+<li>PouÅ¾itÃ­ pÅ™Ã­kazu cyklu for.</li>
+   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/04_RGB_LED">(Lekce ke staÅ¾enÃ­)</a></li>
 </ul>
 <ol start="6">
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/05_MOTOR_DC">Programujeme ovl‡d‡n’ DC motoró</a> </li>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/05_MOTOR_DC">Programujeme ovlÃ¡dÃ¡nÃ­ DC motorÅ¯</a> </li>
 </ol>
 <ul>
-<li>Pochopen’ principu stejnosmrnho motoru.</li>
-<li>Sezn‡men’ s principy tranzistoru.</li>
-<li>Zapojen’ tranzistoru pro regulaci ot‡‹ek motoru.</li>
-<li>Zapojen’ extern’ho nap‡jen’ motoru.</li>
-<li>Vyuìit’ potenciometru pro regulaci motoru.</li>
-<li>Projekt vtr‡ku.</li>
-   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/05_MOTOR_DC">(Lekce ke staìen’)</a></li>
+<li>PochopenÃ­ principu stejnosmÄ›rnÃ©ho motoru.</li>
+<li>SeznÃ¡menÃ­ s principy tranzistoru.</li>
+<li>ZapojenÃ­ tranzistoru pro regulaci otÃ¡Äek motoru.</li>
+<li>ZapojenÃ­ externÃ­ho napÃ¡jenÃ­ motoru.</li>
+<li>VyuÅ¾itÃ­ potenciometru pro regulaci motoru.</li>
+<li>Projekt vÄ›trÃ¡ku.</li>
+   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/05_MOTOR_DC">(Lekce ke staÅ¾enÃ­)</a></li>
 </ul>
 <ol start="7">
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/06_THERMO_DISPLAY">MŞ’me fyzik‡ln’ veli‹iny</a> </li>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/06_THERMO_DISPLAY">MÄ›Å™Ã­me fyzikÃ¡lnÃ­ veliÄiny</a> </li>
 </ol>
 <ul>
-<li>Z’sk‡n’ dovednost’ pŞi zapojov‡n’ senzoru teploty.</li>
-<li>Nau‹en’ se pracovat se sriovùm monitorem.</li>
-<li>Nau‹it se zapojit LCD display a zobrazovat hodnoty.</li>
-<li>PŞipojov‡n’ extern’ch knihoven pro snazä’ programov‡n’.</li>
-<li>Nau‹it se zobrazovat hodnoty na LCD displeji.</li>
-<li>Projekt sklen’ku.</li>
-   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/06_THERMO_DISPLAY">(Lekce ke staìen’)</a></li>
+<li>ZÃ­skÃ¡nÃ­ dovednostÃ­ pÅ™i zapojovÃ¡nÃ­ senzoru teploty.</li>
+<li>NauÄenÃ­ se pracovat se sÃ©riovyÌm monitorem.</li>
+<li>NauÄit se zapojit LCD display a zobrazovat hodnoty.</li>
+<li>PÅ™ipojovÃ¡nÃ­ externÃ­ch knihoven pro snazÅ¡Ã­ programovÃ¡nÃ­.</li>
+<li>NauÄit se zobrazovat hodnoty na LCD displeji.</li>
+<li>Projekt sklenÃ­ku.</li>
+   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/06_THERMO_DISPLAY">(Lekce ke staÅ¾enÃ­)</a></li>
 </ul>
 <ol start="8">
 <li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/07_LED_MATRIX_ACCELEROMETER">Programujeme Akcelerometr</a> </li>
 </ol>
 <ul>
-<li>Z’sk‡n’ dovednost’ pŞi zapojovov‡n’ a ovl‡d‡n’ maticovho displeje.</li>
-<li>Ovl‡d‡n’ displje prostŞednictv’m v’cerozmrnùch pol’.</li>
-   <li>Propojen’ s potenciometry (hra Ping Pong).</li>
-   <li>Z’sk‡n’ znalost’ pŞi pr‡ci s akcelerometrem (princip, zapojen’).</li>
-   <li>Propojen’ akcelerometru a maticovho displeje.</li>
-   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/07_LED_MATRIX_ACCELEROMETER">(Lekce ke staìen’)</a></li>
+<li>ZÃ­skÃ¡nÃ­ dovednostÃ­ pÅ™i zapojovovÃ¡nÃ­ a ovlÃ¡dÃ¡nÃ­ maticovÃ©ho displeje.</li>
+<li>OvlÃ¡dÃ¡nÃ­ displje prostÅ™ednictvÃ­m vÃ­cerozmÄ›rnÃ½ch polÃ­.</li>
+   <li>PropojenÃ­ s potenciometry (hra Ping Pong).</li>
+   <li>ZÃ­skÃ¡nÃ­ znalostÃ­ pÅ™i prÃ¡ci s akcelerometrem (princip, zapojenÃ­).</li>
+   <li>PropojenÃ­ akcelerometru a maticovÃ©ho displeje.</li>
+   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/07_LED_MATRIX_ACCELEROMETER">(Lekce ke staÅ¾enÃ­)</a></li>
 </ul>
 <ol start="9">
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/08_JOYSTICK">Programujeme ovl‡d‡n’ joystickem</a> </li>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/08_JOYSTICK">Programujeme ovlÃ¡dÃ¡nÃ­ joystickem</a> </li>
 </ol>
 <ul>
-<li>Pochopit princip joysticku a jeho vyuìit’ jako vstupn’ zaŞ’zen’ pro konstrukce na
-b‡zi Arduina.</li>
-<li>Sestrojit jednoduchou robotickou ruku za pomoci krokovho motorku, servo motorku a
-d’ló vytiätnùch na 3D tisk‡rn.</li>
-<li>Tuto ruku naprogramovat a nastavit tak, aby umla vym‡chat pytl’k ‹aje v pŞipravenm
-hrn’‹ku s vodou o poìadovan teplot.</li>
-   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/08_JOYSTICK">(Lekce ke staìen’)</a></li>
+<li>Pochopit princip joysticku a jeho vyuÅ¾itÃ­ jako vstupnÃ­ zaÅ™Ã­zenÃ­ pro konstrukce na
+bÃ¡zi Arduina.</li>
+<li>Sestrojit jednoduchou robotickou ruku za pomoci krokovÃ©ho motorku, servo motorku a
+dÃ­lÅ¯ vytiÅ¡tÄ›nyÌch na 3D tiskÃ¡rnÄ›.</li>
+<li>Tuto ruku naprogramovat a nastavit tak, aby umÄ›la vymÃ¡chat pytlÃ­k Äaje v pÅ™ipravenÃ©m
+hrnÃ­Äku s vodou o poÅ¾adovanÃ© teplotÄ›.</li>
+   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/08_JOYSTICK">(Lekce ke staÅ¾enÃ­)</a></li>
 </ul>
 <ol start="10">
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/09_IR_REMOTE_CONTROL">D‡lkov ovl‡d‡n’</a> </li>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/09_IR_REMOTE_CONTROL">DÃ¡lkovÃ© ovlÃ¡dÃ¡nÃ­</a> </li>
 </ol>
 <ul>
-<li>Princip IR ovl‡d‡n’.</li>
-<li>Podrobnù popis zapojen’ obvodu s IR diodu.</li>
-<li>Zdrojovù k—d programu pro IR ovl‡d‡n’</li>
-<li>Podrobnù popis zapojen’ obvodu pro IR ovl‡d‡n’ DC a servo motoru</li>
-<li>Zdrojovù k—d tohot zapojen’</li>
-<li>Ûeäen’ moìnùch pot’ì’</li>
-<li>Dalä’ œkoly pro samostatnou pr‡ci</li>
-   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/09_IR_REMOTE_CONTROL">(Lekce ke staìen’)</a></li>
+<li>Princip IR ovlÃ¡dÃ¡nÃ­.</li>
+<li>PodrobnyÌ popis zapojenÃ­ obvodu s IR diodu.</li>
+<li>ZdrojovyÌ kÃ³d programu pro IR ovlÃ¡dÃ¡nÃ­</li>
+<li>PodrobnyÌ popis zapojenÃ­ obvodu pro IR ovlÃ¡dÃ¡nÃ­ DC a servo motoru</li>
+<li>ZdrojovyÌ kÃ³d tohot zapojenÃ­</li>
+<li>Å˜eÅ¡enÃ­ moÅ¾nyÌch potÃ­Å¾Ã­</li>
+<li>DalÅ¡Ã­ Ãºkoly pro samostatnou prÃ¡ci</li>
+   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/09_IR_REMOTE_CONTROL">(Lekce ke staÅ¾enÃ­)</a></li>
 </ul>
 <ol start="11">
 <li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/10_SEMAPHORE">Semafor</a>  </li>
 </ol>
 <ul>
-<li>Popis pŞeruäen’.</li>
-<li>Tla‹’tko a jeho zapojen’</li>
-<li>Zapojen’ obvodu pro jednoduchù semafor</li>
-<li>Zdrojovù k—d pro jednoduchù semafor</li>
-<li>Ûeäen’ moìnùch pot’ì’</li>
-<li>Sloìitjä’ œlohy pro semafor, v‹etn zapojen’ a zdrojovho k—dy</li>
-<li>Dalä’ œlohy pro samostatnou pr‡ci</li>
-   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/10_SEMAPHORE">(Lekce ke staìen’)</a></li>
+<li>Popis pÅ™eruÅ¡enÃ­.</li>
+<li>TlaÄÃ­tko a jeho zapojenÃ­</li>
+<li>ZapojenÃ­ obvodu pro jednoduchyÌ semafor</li>
+<li>ZdrojovyÌ kÃ³d pro jednoduchyÌ semafor</li>
+<li>Å˜eÅ¡enÃ­ moÅ¾nyÌch potÃ­Å¾Ã­</li>
+<li>SloÅ¾itÄ›jÅ¡Ã­ Ãºlohy pro semafor, vÄetnÄ› zapojenÃ­ a zdrojovÃ©ho kÃ³dy</li>
+<li>DalÅ¡Ã­ Ãºlohy pro samostatnou prÃ¡ci</li>
+   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/10_SEMAPHORE">(Lekce ke staÅ¾enÃ­)</a></li>
 </ul>
 <ol start="12">
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/Wiring%20-%20refere%C4%8Dn%C3%AD%20p%C5%99%C3%ADru%C4%8Dka">Wiring - referen‹n’ pŞ’ru‹ka</a> <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/Wiring%20-%20refere%C4%8Dn%C3%AD%20p%C5%99%C3%ADru%C4%8Dka">(Lekce ke staìen’)</a></li>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/Wiring%20-%20refere%C4%8Dn%C3%AD%20p%C5%99%C3%ADru%C4%8Dka">Wiring - referenÄnÃ­ pÅ™Ã­ruÄka</a> <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/Wiring%20-%20refere%C4%8Dn%C3%AD%20p%C5%99%C3%ADru%C4%8Dka">(Lekce ke staÅ¾enÃ­)</a></li>
 </ol>
 <h1><a id="user-content-microbit" class="anchor" aria-hidden="true" href="#microbit"></a>MicroBit</h1>
-<p>U‹ebnice MicroBit je zamŞena na vùuku programov‡n’ MicroPythonu za pomoc’ vùvojov desky Microbit.</p>
-<p>Je ur‹ena pro pokro‹ilejä’ ì‡ky 7. aì 9. tŞ’d z‡kladn’ch äkol a pro neelektrotechnicky zamŞen äkoly stŞedn’.</p>
+<p>UÄebnice MicroBit je zamÄ›Å™ena na vÃ½uku programovÃ¡nÃ­ MicroPythonu za pomocÃ­ vÃ½vojovÃ© desky Microbit.</p>
+<p>Je urÄena pro pokroÄilejÅ¡Ã­ Å¾Ã¡ky 7. aÅ¾ 9. tÅ™Ã­d zÃ¡kladnÃ­ch Å¡kol a pro neelektrotechnicky zamÄ›Å™enÃ© Å¡koly stÅ™ednÃ­.</p>
 <h2>Obsah</h2>
 <ol>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/00-Uvod"> òvod</a>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/01-LED"> Pr‡ce s vestavnùm LED displejem</a>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/00-Uvod"> Ãšvod</a>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/01-LED"> PrÃ¡ce s vestavÄ›nÃ½m LED displejem</a>
 <ul>
-<li>Zobrazov‡n’ textu
-<li>Zobrazen’ obr‡zkó vestavnùch i vlastn’ch
+<li>ZobrazovÃ¡nÃ­ textu
+<li>ZobrazenÃ­ obrÃ¡zkÅ¯ vestavÄ›nÃ½ch i vlastnÃ­ch
 <li>Animace
 </ul>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/02-Button"> Pouìit’ vestavnùch tla‹’tek</a>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/03-Sound">Pr‡ce se zvukem</a>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/02-Button"> PouÅ¾itÃ­ vestavÄ›nÃ½ch tlaÄÃ­tek</a>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/03-Sound">PrÃ¡ce se zvukem</a>
 <ul>
-<li>PŞehr‡n’ vestavnùch melodi’
-<li>Tvorba vlastn’ch melodi’
-<li>Generov‡n’ Şe‹i
+<li>PÅ™ehrÃ¡nÃ­ vestavÄ›nÃ½ch melodiÃ­
+<li>Tvorba vlastnÃ­ch melodiÃ­
+<li>GenerovÃ¡nÃ­ Å™eÄi
 </ul>
 <li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/04-Poloha">Orientace micro:bitu v prostoru</a>
 <ul>
-<li>Pouìit’ vestavnho akcelerometru
-<li>Vyuìit’ gest
-<li>Pouìit’ vestavnho kompasu
-<li>MŞen’ magnetickho pole
+<li>PouÅ¾itÃ­ vestavÄ›nÃ©ho akcelerometru
+<li>VyuÅ¾itÃ­ gest
+<li>PouÅ¾itÃ­ vestavÄ›nÃ©ho kompasu
+<li>MÄ›Å™enÃ­ magnetickÃ©ho pole
 </ul>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/05-Sit">Propojen’ micro:bitó v s’ti</a>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/05-Sit">PropojenÃ­ micro:bitÅ¯ v sÃ­ti</a>
 <ul>
-<li>PŞ’m propojen’ pomoc’ kabelu
-<li>Bezdr‡tov propojen’ pomoc’ r‡dia
+<li>PÅ™Ã­mÃ© propojenÃ­ pomocÃ­ kabelu
+<li>BezdrÃ¡tovÃ© propojenÃ­ pomocÃ­ rÃ¡dia
 </ul>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/06-Periferie">Pr‡ce s perifriemi</a>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/06-Periferie">PrÃ¡ce s perifÃ©riemi</a>
 <ul>
-<li>Ovl‡d‡n’ trojbarevn diody
-<li>MŞen’ teploty pomoc’ extern’ho ‹idla
+<li>OvlÃ¡dÃ¡nÃ­ trojbarevnÃ© diody
+<li>MÄ›Å™enÃ­ teploty pomocÃ­ externÃ­ho Äidla
 </ul>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/07-Zaver">Z‡vre‹nù pŞ’klad</a>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/07-Zaver">ZÃ¡vÄ›reÄnÃ½ pÅ™Ã­klad</a>
 </ul>
 </ol>
 </article> 
