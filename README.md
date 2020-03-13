@@ -227,5 +227,5 @@ hrn’‹ku s vodou o poìadovan teplot.</li>
 <li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/07-Zaver">Z‡vre‹nù pŞ’klad</a>
 </ul>
 </ol>
-</article>
+</article> 
 
