@@ -57,7 +57,7 @@ Ve složce se nachází zejména soubory schémat zapojení všech obvodů uvede
 <li>První nastavení programovacího rozhraní.</li>
 <li>Řešení problémů.</li>
 <li>Nutné základy pro první program - kontaktní pole, ohmův zákon, tlačítka, LED.</li>
-   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/00_Uvod">(Lekce ke stažení)</a></li>
+   <li><a href="https://downgit.github.io/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/00_Uvod">(Lekce ke stažení)</a></li>
 </ul>
 <ol start="2">
 <li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/01_PRVNI_PROGRAM">První program</a> </li>
