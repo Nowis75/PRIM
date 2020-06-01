@@ -74,7 +74,7 @@ Ve složce se nachází zejména soubory schémat zapojení všech obvodů uvede
 <li>Programový kód pro ovládání obvodu s bzučákem.</li>
 <li>Technická část pro závěrečný projekt – Mluvící robot.</li>
 <li>Vysvětlení řešení samostatných úkolů.</li>
-   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/01_PRVNI_PROGRAM">(Lekce ke stažení)</a></li>
+   <li><a href="https://downgit.github.io/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/01_PRVNI_PROGRAM">(Lekce ke stažení)</a></li>
 </ul>
 <ol start="3">
 <li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/02_LED_ANIMATION">LED Animace</a> </li>
@@ -87,7 +87,7 @@ Ve složce se nachází zejména soubory schémat zapojení všech obvodů uvede
 <li>Řešené problémy při zapojení sestavy LED diod.</li>
 <li>Technická část pro závěrečný projekt – stojan na diody.</li>
 <li>Vysvětlení řešení samostatných úkolů.</li>
-   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/02_LED_ANIMATION">(Lekce ke stažení)</a></li>
+   <li><a href="https://downgit.github.io/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/02_LED_ANIMATION">(Lekce ke stažení)</a></li>
 </ul>
 <ol start="4">
 <li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/03_SERVO">Programujeme ovládání servo motorů</a> </li>
@@ -101,7 +101,7 @@ Ve složce se nachází zejména soubory schémat zapojení všech obvodů uvede
 <li>Řešené problémy při zapojení servomotoru.</li>
 <li>Technická část pro závěrečný projekt – slunečnice.</li>
 <li>Vysvětlení řešení samostatných úkolů.</li>
-   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/03_SERVO">(Lekce ke stažení)</a></li>
+   <li><a href="https://downgit.github.io/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/03_SERVO">(Lekce ke stažení)</a></li>
 </ul>
 <ol start="5">
 <li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/04_RGB_LED">Programujeme RGB diody</a> </li>
@@ -115,7 +115,7 @@ se jedná o volbu rezistorů a jejich zapojení.</li>
 <li>Využití již zavedeného podmínkového příkazu if.</li>
 <li>Zavedení vlastní funkce v programovém kódu.</li>
 <li>Použití příkazu cyklu for.</li>
-   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/04_RGB_LED">(Lekce ke stažení)</a></li>
+   <li><a href="https://downgit.github.io/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/04_RGB_LED">(Lekce ke stažení)</a></li>
 </ul>
 <ol start="6">
 <li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/05_MOTOR_DC">Programujeme ovládání DC motorů</a> </li>
@@ -127,7 +127,7 @@ se jedná o volbu rezistorů a jejich zapojení.</li>
 <li>Zapojení externího napájení motoru.</li>
 <li>Využití potenciometru pro regulaci motoru.</li>
 <li>Projekt větráku.</li>
-   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/05_MOTOR_DC">(Lekce ke stažení)</a></li>
+   <li><a href="https://downgit.github.io/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/05_MOTOR_DC">(Lekce ke stažení)</a></li>
 </ul>
 <ol start="7">
 <li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/06_THERMO_DISPLAY">Měříme fyzikální veličiny</a> </li>
@@ -139,7 +139,7 @@ se jedná o volbu rezistorů a jejich zapojení.</li>
 <li>Připojování externích knihoven pro snazší programování.</li>
 <li>Naučit se zobrazovat hodnoty na LCD displeji.</li>
 <li>Projekt skleníku.</li>
-   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/06_THERMO_DISPLAY">(Lekce ke stažení)</a></li>
+   <li><a href="https://downgit.github.io/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/06_THERMO_DISPLAY">(Lekce ke stažení)</a></li>
 </ul>
 <ol start="8">
 <li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/07_LED_MATRIX_ACCELEROMETER">Programujeme Akcelerometr</a> </li>
@@ -150,7 +150,7 @@ se jedná o volbu rezistorů a jejich zapojení.</li>
    <li>Propojení s potenciometry (hra Ping Pong).</li>
    <li>Získání znalostí při práci s akcelerometrem (princip, zapojení).</li>
    <li>Propojení akcelerometru a maticového displeje.</li>
-   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/07_LED_MATRIX_ACCELEROMETER">(Lekce ke stažení)</a></li>
+   <li><a href="https://downgit.github.io/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/07_LED_MATRIX_ACCELEROMETER">(Lekce ke stažení)</a></li>
 </ul>
 <ol start="9">
 <li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/08_JOYSTICK">Programujeme ovládání joystickem</a> </li>
@@ -162,7 +162,7 @@ bázi Arduina.</li>
 dílů vytištěných na 3D tiskárně.</li>
 <li>Tuto ruku naprogramovat a nastavit tak, aby uměla vymáchat pytlík čaje v připraveném
 hrníčku s vodou o požadované teplotě.</li>
-   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/08_JOYSTICK">(Lekce ke stažení)</a></li>
+   <li><a href="https://downgit.github.io/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/08_JOYSTICK">(Lekce ke stažení)</a></li>
 </ul>
 <ol start="10">
 <li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/09_IR_REMOTE_CONTROL">Dálkové ovládání</a> </li>
@@ -175,7 +175,7 @@ hrníčku s vodou o požadované teplotě.</li>
 <li>Zdrojový kód tohot zapojení</li>
 <li>Řešení možných potíží</li>
 <li>Další úkoly pro samostatnou práci</li>
-   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/09_IR_REMOTE_CONTROL">(Lekce ke stažení)</a></li>
+   <li><a href="https://downgit.github.io/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/09_IR_REMOTE_CONTROL">(Lekce ke stažení)</a></li>
 </ul>
 <ol start="11">
 <li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/10_SEMAPHORE">Semafor</a>  </li>
@@ -188,10 +188,10 @@ hrníčku s vodou o požadované teplotě.</li>
 <li>Řešení možných potíží</li>
 <li>Složitější úlohy pro semafor, včetně zapojení a zdrojového kódy</li>
 <li>Další úlohy pro samostatnou práci</li>
-   <li><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/10_SEMAPHORE">(Lekce ke stažení)</a></li>
+   <li><a href="https://downgit.github.io/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/10_SEMAPHORE">(Lekce ke stažení)</a></li>
 </ul>
 <ol start="12">
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/Wiring%20-%20refere%C4%8Dn%C3%AD%20p%C5%99%C3%ADru%C4%8Dka">Wiring - referenční příručka</a> <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/Wiring%20-%20refere%C4%8Dn%C3%AD%20p%C5%99%C3%ADru%C4%8Dka">(Lekce ke stažení)</a></li>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/Wiring%20-%20refere%C4%8Dn%C3%AD%20p%C5%99%C3%ADru%C4%8Dka">Wiring - referenční příručka</a> <a href="https://downgit.github.io/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/Wiring%20-%20refere%C4%8Dn%C3%AD%20p%C5%99%C3%ADru%C4%8Dka">(Lekce ke stažení)</a></li>
 </ol>
 
 </article> 
