@@ -10,7 +10,7 @@
           </p>
 <p><a href="#arduino">Arduino - obsah</a></p>
 <p><a href="https://github.com/Nowis75/PRIM/archive/master.zip">Učebnice ke stažení (ZIP - 1Gb)</a></p>    
-      <p><a href="https://github.com/Nowis75/PRIM/blob/master/Experiments/ucebnice-arduino-full-text-reduce-for-web.pdf">Učebnice ke stažení (pouze PDF vše v jednom souboru)</a></p>
+      <p><a href="https://github.com/Nowis75/PRIM/raw/master/Experiments/ucebnice-arduino-full-text-reduce-for-web.pdf">Učebnice ke stažení (pouze PDF vše v jednom souboru)</a></p>
        <h2>KRÁTKÉ SEZNÁMENÍ, JAK PRACOVAT S UČEBNICÍ</h2><p>
 Učebnice se skládá z jednotlivých kapitol, které obsahují konkrétní probírané téma. Materiály pro každé téma jsou rozděleny do tří základních částí a doplněny o další podpůrné materiály.</p>
 <p>
