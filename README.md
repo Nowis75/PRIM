@@ -31,7 +31,7 @@ Součástí je i námět na projekt, který využívá naučených znalostí z h
 <b>[Složka 04_Zdrojove_kody_prikladu]</b>. Složka obsahuje soubory zdrojových kódů, které lze otevřít v prostředí Arduino. Jsou zde uvedeny kódy všech vzorových příkladů i samostatných úkolů.
 Pokud je to nutné, tak lze ve složce nalézt potřebné knihovny pro prostředí Arduino.</p>
 <h3>5.	ZÁVĚREČNÝ PROJEKT</h3><p>
-<b>[Složka 05_Zaverecny_projekt]</b>Složka obsahuje soubor, ve kterém je uveden postup konstrukce samostatného projektu dále podsložku s tiskovými šablonami pro případnou konstrukci. Šablony jsou uvedeny ve zdrojových souborech, nebo v PDF, které lze jednoduše vytisknout </p>
+<b>[Složka 05_Zaverecny_projekt]</b>. Složka obsahuje soubor, ve kterém je uveden postup konstrukce samostatného projektu dále podsložku s tiskovými šablonami pro případnou konstrukci. Šablony jsou uvedeny ve zdrojových souborech, nebo v PDF, které lze jednoduše vytisknout </p>
 <h3>6.	DALŠÍ MATERIÁLY</h3><p>
 <b>[Složka 06_Dalsi_materialy]</b>. Ve složce se nachází zejména soubory schémat zapojení všech obvodů uvedených v učebnici, vztahující se k dané lekci.
 </p>
