@@ -187,6 +187,16 @@ hrníčku s vodou o požadované teplotě.</li>
    <li><a href="https://downgit.github.io/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/10_SEMAPHORE">(Lekce ke stažení)</a></li>
 </ul>
 <ol start="12">
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/11_Ultrazvuk">Ultrazvuk</a>  </li>
+</ol>
+<ul>
+<li>Popis práce s ultrazvukovým čidlem.</li>
+<li>Propojení kódu s LED</li>
+<li>Zobrazení hodnot z čidla na LCD displeji</li>
+<li>Projekt - robotické vozítko</li>
+<li><a href="https://downgit.github.io/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/11_Ultrazvuk">(Lekce ke stažení)</a></li>
+</ul>
+<ol start="13">
 <li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/Wiring%20-%20refere%C4%8Dn%C3%AD%20p%C5%99%C3%ADru%C4%8Dka">Wiring - referenční příručka</a> <a href="https://downgit.github.io/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/Wiring%20-%20refere%C4%8Dn%C3%AD%20p%C5%99%C3%ADru%C4%8Dka">(Lekce ke stažení)</a></li>
 </ol>
 
