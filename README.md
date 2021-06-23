@@ -35,26 +35,27 @@ Pokud je to nutné, tak lze ve složce nalézt potřebné knihovny pro prostřed
 <h3>6.	DALŠÍ MATERIÁLY</h3><p>
 <b>[Složka 06_Dalsi_materialy]</b><br> Ve složce se nachází zejména soubory schémat zapojení všech obvodů uvedených v učebnici, vztahující se k dané lekci.
 </p>
-<h4>Hodinová náročnost</h4>  
+<h4>Hodinová dotace</h4>  
 Jednotlivé lekce lze rozdělit podle obtížnosti do dvou bloků. Od toho se dovíjí i předpokládaná hodinová náročnost.
-       |
+       <table style="width:100%"><tr style="border:none"><td style="border:none">
        <h5>I. Blok</h5>
-          1. Úvod -  1x45 min<br>
-          2. První program - 2x45 min<br>
-          3. LED animace - 2x45 min<br>
-          4. Programujeme ovládání servo motorů - 2x45 min<br>
-          5. Programujeme RGB diody - 2x45 min<br>
-          6. Programujeme ovládání DC motorů - 2x45 min<br>
-          7. Měříme fyzikální veličiny - 2x45 min<br>
-       | 
-       <h5>II. Blok</h5>  
-           8. Programujeme akcelerometr - 5x45 min<br>
-           9. Programujeme ovládání joystickem - 3x45 min<br>
-           10. Dálkové ovládání - 3x45 min<br>
-           11. Semafor - 2x 45 min<br>
-           12. Ultrazvuk - 4x 45 min<br><br><br>
-         |
-
+          1. Úvod - 1x45 min<br>
+          2. První program - 2x 45 min<br>
+          3. LED animace - 2x 45min<br>
+          4. Programujeme ovládání servo motorů - 2x 45min<br>
+          5. Programujeme RGB diody - 2x 45min<br>
+          6. Programujeme ovládání DC motorů - 2x 45min<br>
+          7. Měříme fyzikální veličiny - 2x 45min<br>
+          </td><td style="border:none">
+        <h5>II. Blok</h5>  
+           8. Programujeme akcelerometr - 5x 45min<br>
+           9. Programujeme ovládání joystickem - 3x 45min<br>
+           10. Dálkové ovládání - 3x 45min<br>
+           11. Semafor - 2x 45min<br>
+           12. Ultrazvuk - 4x 45min<br><br><br>
+          </td>
+          </tr>
+          </table>
 <h1><a id="user-content-arduino" class="anchor" aria-hidden="true" href="#arduino"></a>Arduino</h1>
        
 <p>Učebnice ARDUINO obsahuje sadu metodických materiálů pro učitele se zaměřením na programování, odráží zrevidovaný rámcový vzdělávací plán z informatiky a naplňuje některé z kompetencí, které jsou v něm zařazené.</p>
