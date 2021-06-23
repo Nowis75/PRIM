@@ -37,7 +37,6 @@ Pokud je to nutné, tak lze ve složce nalézt potřebné knihovny pro prostřed
 </p>
 <h4>Hodinová náročnost</h4>  
 Jednotlivé lekce lze rozdělit podle obtížnosti do dvou bloků. Od toho se dovíjí i předpokládaná hodinová náročnost.
-       ---------------------------------------------------------------
        |
        <h5>I. Blok</h5>
           1. Úvod -  1x45 min<br>
@@ -55,7 +54,7 @@ Jednotlivé lekce lze rozdělit podle obtížnosti do dvou bloků. Od toho se do
            11. Semafor - 2x 45 min<br>
            12. Ultrazvuk - 4x 45 min<br><br><br>
          |
-           ---------------------------------------------------------------
+
 <h1><a id="user-content-arduino" class="anchor" aria-hidden="true" href="#arduino"></a>Arduino</h1>
        
 <p>Učebnice ARDUINO obsahuje sadu metodických materiálů pro učitele se zaměřením na programování, odráží zrevidovaný rámcový vzdělávací plán z informatiky a naplňuje některé z kompetencí, které jsou v něm zařazené.</p>
