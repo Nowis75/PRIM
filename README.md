@@ -35,6 +35,27 @@ Pokud je to nutné, tak lze ve složce nalézt potřebné knihovny pro prostřed
 <h3>6.	DALŠÍ MATERIÁLY</h3><p>
 <b>[Složka 06_Dalsi_materialy]</b><br> Ve složce se nachází zejména soubory schémat zapojení všech obvodů uvedených v učebnici, vztahující se k dané lekci.
 </p>
+<h4>Hodinová dotace</h4>  
+Jednotlivé lekce lze rozdělit podle obtížnosti do dvou bloků. Od toho se dovíjí i předpokládaná hodinová náročnost.
+       <table style="width:100%"><tr style="border:none"><td style="border:none">
+       <h5>I. Blok</h5>
+          1. Úvod - 1x45 min<br>
+          2. První program - 2x 45 min<br>
+          3. LED animace - 2x 45min<br>
+          4. Programujeme ovládání servo motorů - 2x 45min<br>
+          5. Programujeme RGB diody - 2x 45min<br>
+          6. Programujeme ovládání DC motorů - 2x 45min<br>
+          7. Měříme fyzikální veličiny - 2x 45min<br>
+          </td><td style="border:none">
+        <h5>II. Blok</h5>  
+           8. Programujeme akcelerometr - 5x 45min<br>
+           9. Programujeme ovládání joystickem - 3x 45min<br>
+           10. Dálkové ovládání - 3x 45min<br>
+           11. Semafor - 2x 45min<br>
+           12. Ultrazvuk - 4x 45min<br><br><br>
+          </td>
+          </tr>
+          </table>
 <h1><a id="user-content-arduino" class="anchor" aria-hidden="true" href="#arduino"></a>Arduino</h1>
        
 <p>Učebnice ARDUINO obsahuje sadu metodických materiálů pro učitele se zaměřením na programování, odráží zrevidovaný rámcový vzdělávací plán z informatiky a naplňuje některé z kompetencí, které jsou v něm zařazené.</p>
@@ -187,6 +208,16 @@ hrníčku s vodou o požadované teplotě.</li>
    <li><a href="https://downgit.github.io/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/10_SEMAPHORE">(Lekce ke stažení)</a></li>
 </ul>
 <ol start="12">
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/11_Ultrazvuk">Ultrazvuk</a>  </li>
+</ol>
+<ul>
+<li>Popis práce s ultrazvukovým čidlem.</li>
+<li>Propojení kódu s LED</li>
+<li>Zobrazení hodnot z čidla na LCD displeji</li>
+<li>Projekt - robotické vozítko</li>
+<li><a href="https://downgit.github.io/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/11_Ultrazvuk">(Lekce ke stažení)</a></li>
+</ul>
+<ol start="13">
 <li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/Wiring%20-%20refere%C4%8Dn%C3%AD%20p%C5%99%C3%ADru%C4%8Dka">Wiring - referenční příručka</a> <a href="https://downgit.github.io/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/Wiring%20-%20refere%C4%8Dn%C3%AD%20p%C5%99%C3%ADru%C4%8Dka">(Lekce ke stažení)</a></li>
 </ol>
 
