@@ -1,7 +1,7 @@
    <div id="readme" class="readme blob instapaper_body">
     <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-prim---robotika" class="anchor" aria-hidden="true" id="prim" href="#uvod">Robotika pro střední školy: programujeme Arduino</a></h1>
        <table><tr><td><img src="https://github.com/Nowis75/PRIM/blob/master/Experiments/Arduino/__Titulka/Robotika-pro-st%C5%99edn%C3%AD-%C5%A1koly-programujeme-Arduino-obalka-big.jpg" alt="Arduino" /></td><td>
-       <img src="https://github.com/Nowis75/PRIM/blob/master/Experiments/Arduino/__Titulka/Robotika-pro-st%C5%99edn%C3%AD-%C5%A1koly-programujeme-Arduino---colophon.jpg" alt="Arduino" /></td></tr></table>
+       <img src="https://github.com/Nowis75/PRIM/blob/master/Experiments/Arduino/__Titulka/Robotika-pro-st%C5%99edn%C3%AD-%C5%A1koly-programujeme-Arduino-patitul-big.jpg" alt="Arduino" /></td></tr></table>
       <a id="uvod"></a>
       <h4>Projekt PRIM</h4>
 <p>Tato část učebnice robotiky pro střední školy, využívá technologii Arduino. Jedná se spíš o úvod do problematiky robotiky, který v sobě nese základní dovednosti v řídících, senzorických a motorických subsystémech, které tvoří ucelený robotický systém.</p>
